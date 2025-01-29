@@ -9,12 +9,18 @@ Installation
 
 ## Prerequisites
 
-# Ensure you have Python 3.7+ installed. Then, install the required dependencies:
+Ensure you have Python 3.7+ installed. Then, install the required dependencies:
 
 "pip install streamlit opencv-python numpy pillow"
 
 ## Running the Application
 
-# Navigate to the project directory and run:
+Navigate to the project directory and run:
 
 "streamlit run str.py"
+
+# License
+
+This project is open-source and free to use.
+
+
